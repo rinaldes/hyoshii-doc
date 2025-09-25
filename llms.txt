@@ -1,0 +1,43 @@
+# Hyoshii Documentation
+
+> Hyoshii Documentation
+
+## Documentation Sets
+
+- [Hyoshii Documentation](https://doc.hyoshii.com/llms-full.txt): Hyoshii Documentation
+
+## LandingEn
+
+- [Write beautiful docs with Markdown](https://doc.hyoshii.com/en): Ship fast, flexible, and SEO-optimized documentation with beautiful design out of the box. Docus brings together the best of the Nuxt ecosystem. Powered by Nuxt UI.
+
+## DocsEn
+
+- [Introduction](https://doc.hyoshii.com/en/getting-started/introduction): Welcome to Docus theme documentation.
+- [Installation](https://doc.hyoshii.com/en/getting-started/installation): Get started with Docus.
+- [Project Structure](https://doc.hyoshii.com/en/getting-started/project-structure): Learn about the project structure of Docus v4.
+- [Web Editor](https://doc.hyoshii.com/en/getting-started/studio): Build your documentation using Nuxt Studio web editor
+- [Migration](https://doc.hyoshii.com/en/getting-started/migration):  How to migrate your documentation from an existing Markdown solution to Docus
+- [Markdown Syntax](https://doc.hyoshii.com/en/essentials/markdown-syntax): Text, title, and styling in standard markdown.
+- [Code Blocks](https://doc.hyoshii.com/en/essentials/code-blocks): Display inline code and code blocks in your documentation.
+- [Markdown Components](https://doc.hyoshii.com/en/essentials/components): Use Markdown components to help you structure your content, with the help of Nuxt UI.
+- [Images and Embeds](https://doc.hyoshii.com/en/essentials/images-embeds): Add image, video, and other HTML elements
+- [Location Management](https://doc.hyoshii.com/en/hyoshii-app/features/location-management): Effectively manage all your strawberry farm locations, plots, and growing areas with Hyoshii App's comprehensive location management system.
+- [Production Reporting](https://doc.hyoshii.com/en/hyoshii-app/features/production-reporting): Hyoshii App's production reporting tools help you track, analyze, and optimize your strawberry farm's output. This guide covers all aspects of production reporting.
+- [Getting Started with Hyoshii App](https://doc.hyoshii.com/en/hyoshii-app/getting-started): Welcome to Hyoshii App, your comprehensive solution for managing strawberry farm cultivation. This guide will help you set up and start using the application effectively.
+- [Hyoshii App - Strawberry Farm Management](https://doc.hyoshii.com/en/hyoshii-app): Comprehensive documentation for Hyoshii App - Your all-in-one solution for strawberry farm cultivation management.
+
+## LandingId
+
+- [Rédigez votre documentation en Markdown](https://doc.hyoshii.com/id): Publiez instantanément une documentation élégante, optimisée pour le SEO, avec design déjà pensé. Docus intègre le meilleur de l'écosystème Nuxt.
+
+## DocsId
+
+- [Introduction](https://doc.hyoshii.com/id/getting-started/introduction): Bienvenue dans la documentation du thème Docus.
+- [Installation](https://doc.hyoshii.com/id/getting-started/installation): Commencez avec Docus.
+- [Structure du projet](https://doc.hyoshii.com/id/getting-started/project-structure): Comprendre la structure de projet de Docus v4.
+- [Éditeur Web](https://doc.hyoshii.com/id/getting-started/studio): Construisez votre documentation avec l'éditeur web Nuxt Studio
+- [Migration](https://doc.hyoshii.com/id/getting-started/migration): Comment migrer votre documentation d'une solution Markdown existante vers Docus
+- [Syntaxe Markdown](https://doc.hyoshii.com/id/essentials/markdown-syntax): Texte, titres et mise en forme en markdown standard.
+- [Blocs de code](https://doc.hyoshii.com/id/essentials/code-blocks): Affichez du code en ligne et des blocs de code dans votre documentation.
+- [Composants Markdown](https://doc.hyoshii.com/id/essentials/components): Utilisez les composants Markdown pour structurer votre contenu, avec l'aide de Nuxt UI.
+- [Images et intégrations](https://doc.hyoshii.com/id/essentials/images-embeds): Ajoutez des images, vidéos et autres éléments HTML
